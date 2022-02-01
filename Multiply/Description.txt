@@ -1,0 +1,4 @@
+EN__description: https://py.checkio.org/en/mission/multiply-intro/
+RU__description: https://py.checkio.org/ru/mission/multiply-intro/
+
+Log_in or Sigh_in may be required to read the description text. 
