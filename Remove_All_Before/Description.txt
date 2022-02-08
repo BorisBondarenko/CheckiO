@@ -1,0 +1,4 @@
+EN__description: https://py.checkio.org/en/mission/remove-all-before/
+RU__description: https://py.checkio.org/ru/mission/remove-all-before/
+
+Log_in or Sigh_up may be required to read the description text.
