@@ -1,0 +1,4 @@
+EN__description: https://py.checkio.org/en/mission/replace-first/
+RU__description: https://py.checkio.org/ru/mission/replace-first/
+
+Log_in or Sigh_up may be required to read the description text.
