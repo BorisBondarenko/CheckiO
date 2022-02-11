@@ -1,0 +1,4 @@
+EN__description: https://py.checkio.org/en/mission/all-upper/
+RU__description: https://py.checkio.org/ru/mission/all-upper/
+
+Log_in or Sigh_up may be required to read the description text. 
